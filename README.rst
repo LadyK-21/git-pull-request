@@ -5,7 +5,7 @@
 .. image:: https://badge.fury.io/py/git-pull-request.svg
     :target: https://badge.fury.io/py/git-pull-request
 
-git-pull-request is a command line tool to send Bitbucket_, GitHub or Pagure_ pull-request
+git-pull-request is a command line tool to send Bitbucket_, GitHub_ or Pagure_ pull-request
 from your terminal.
 
 Installation
